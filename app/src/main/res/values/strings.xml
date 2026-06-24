@@ -1,3 +1,23 @@
 <resources>
-    <string name="app_name">MyExpenseTracker</string>
+    <string name="app_name">Expense Tracker</string>
+
+    <string name="welcome_msg">Welcome to Tharusha\'s Expense Tracker!</string>
+    <string name="developer_info">This App was developed by Tharusha (D/BCE/24/0010)</string>
+    <string name="my_expense_groups">My Expense Groups</string>
+    <string name="create_new_group">Create New Group...</string>
+    <string name="add_btn">Add</string>
+    <string name="quick_add_expense">Quick Add Expense</string>
+    <string name="select_expense_group">Select Expense Group</string>
+    <string name="add_expense_btn">Add Expense</string>
+
+    <string name="back_arrow">←</string>
+    <string name="edit_expense_header">Edit Expense Details</string>
+    <string name="expense_title_hint">Expense Title (e.g. Lunch)</string>
+    <string name="amount_hint">Amount</string>
+    <string name="date_hint">Date (YYYY-MM-DD)</string>
+    <string name="category_hint">Category (e.g. Food, Travel)</string>
+    <string name="save_btn">Save</string>
+    <string name="sort_date_btn">Sort by Date</string>
+    <string name="sort_amount_btn">Sort by Amount</string>
+    <string name="search_hint">Search by Title or Category...</string>
 </resources>
